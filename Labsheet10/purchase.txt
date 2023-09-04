@@ -1,0 +1,4 @@
+p001	Flour	5	100
+p002	Dhal	2	180
+p003	Sugar	4	140
+p004	Rice	10	150
